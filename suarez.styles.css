@@ -316,8 +316,8 @@ img{
 }
 @media screen and (min-width: 900px) {
     img{
-        width: 400px;
-        max-width: 400px;
+        width: 350px;
+        max-width: 350px;
     }
 }
 
